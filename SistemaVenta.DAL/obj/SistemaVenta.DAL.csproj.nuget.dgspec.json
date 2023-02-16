@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.DAL/SistemaVenta.DAL.csproj": {}
+  },
+  "projects": {
+    "/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.DAL/SistemaVenta.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.DAL/SistemaVenta.DAL.csproj",
+        "projectName": "SistemaVenta.DAL",
+        "projectPath": "/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.DAL/SistemaVenta.DAL.csproj",
+        "packagesPath": "/Users/jorgeortega/.nuget/packages/",
+        "outputPath": "/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jorgeortega/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.Entity/SistemaVenta.Entity.csproj": {
+                "projectPath": "/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.Entity/SistemaVenta.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.Entity/SistemaVenta.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.Entity/SistemaVenta.Entity.csproj",
+        "projectName": "SistemaVenta.Entity",
+        "projectPath": "/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.Entity/SistemaVenta.Entity.csproj",
+        "packagesPath": "/Users/jorgeortega/.nuget/packages/",
+        "outputPath": "/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.Entity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jorgeortega/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
