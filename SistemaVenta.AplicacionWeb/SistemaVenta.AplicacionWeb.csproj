@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaVenta.BLL\SistemaVenta.BLL.csproj" />
+    <ProjectReference Include="..\SistemaVenta.Entity\SistemaVenta.Entity.csproj" />
+    <ProjectReference Include="..\SistemaVenta.IOC\SistemaVenta.IOC.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Utilidades\" />
+    <None Remove="Utilidades\Response\" />
+    <None Remove="Views\Plantilla\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Utilidades\" />
+    <Folder Include="Utilidades\Response\" />
+    <Folder Include="Views\Plantilla\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Views\Plantilla\EnviarClave">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Views\Plantilla\EnviarClave.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Update="Views\Plantilla\EnviarClave.cshtml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+</Project>
