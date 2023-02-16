@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SistemaVenta.AplicacionWeb
+build_property.RootNamespace = SistemaVenta.AplicacionWeb
+build_property.ProjectDir = /Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Categorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmlhcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/DashBoard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGFzaEJvYXJkL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/HistorialVenta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGlzdG9yaWFsVmVudGEvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Home/Perfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9QZXJmaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Negocio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTmVnb2Npby9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/NuevaVenta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnVldmFWZW50YS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Plantilla/RestablecerClave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGxhbnRpbGxhL1Jlc3RhYmxlY2VyQ2xhdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Productos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdG9zL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/ReporteVenta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVwb3J0ZVZlbnRhL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jorgeortega/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uyjgucadzq
